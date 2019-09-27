@@ -3,7 +3,7 @@
   <component name="GitSharedSettings">
     <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
       <list>
-        <option value="https://github.com/BaiRuifu/master.git" />
+        <option value="git@github.com:BaiRuifu/master.git" />
       </list>
     </option>
   </component>
